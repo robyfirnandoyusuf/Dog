@@ -11,3 +11,6 @@ a Rust-based command-line tool named dog that mimics the functionality of Linux'
 
 ### Screenshot
 ![image](https://github.com/user-attachments/assets/6548c027-5a46-47ee-a2d0-2ef1f70daadf)
+
+### License
+Dog is distributed under MIT.
